@@ -54,3 +54,6 @@ npm run dev
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the API
 - [Lucide](https://lucide.dev/) for the beautiful icons
+
+# Live
+  - https://movie-verse-eight-theta.vercel.app/
